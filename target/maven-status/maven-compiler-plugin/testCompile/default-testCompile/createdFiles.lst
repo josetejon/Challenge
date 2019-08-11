@@ -1,0 +1,4 @@
+com\challenge\email\ChallengeApplicationTest.class
+com\challenge\email\service\ChallengeServiceImplTest.class
+com\challenge\email\controller\ChallengeControllerImplTest.class
+Email\Challenge\AppTest.class

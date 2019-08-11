@@ -1,0 +1,8 @@
+com\challenge\email\controller\ChallengeControllerImpl.class
+com\challenge\email\domain\EmailRequest.class
+com\challenge\email\config\ChallengeConfigBean.class
+com\challenge\email\domain\EmailResponse.class
+com\challenge\email\service\ChallengeServiceImpl.class
+com\challenge\email\ChallengeApplication.class
+com\challenge\email\service\ChallengeSevice.class
+Email\Challenge\App.class
